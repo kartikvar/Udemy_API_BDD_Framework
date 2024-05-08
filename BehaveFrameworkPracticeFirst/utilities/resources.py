@@ -1,0 +1,2 @@
+class APIResources:
+    createToken = "auth"
